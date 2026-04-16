@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "mini-trust-wallet",
+    "name": "Mini Trust Wallet",
     "slug": "mini-trust-wallet",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,6 +25,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
   }
 }
