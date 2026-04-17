@@ -109,8 +109,10 @@ src/
 
 ## AI Usage
 
-- AI assistance was used for some early project structure and issue-solving support during development.
-- Core wallet behavior, derivation logic, and security-sensitive flows were reviewed and validated manually.
+- AI assistance was used for early scaffolding, documentation drafting, and some debugging support.
+- Tools used: ChatGPT / Codex.
+- AI support was limited to initial structure and development assistance, not final decision-making.
+- Core wallet logic, derivation behavior, and security-sensitive flows were reviewed and validated manually.
 
 ## Out-of-Time Checklist
 
