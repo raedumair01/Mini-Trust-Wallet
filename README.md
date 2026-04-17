@@ -109,8 +109,8 @@ src/
 
 ## AI Usage
 
-- Used AI for initial scaffolding and drafting.
-- All wallet logic, security-related behavior, and final implementation decisions were manually reviewed and validated.
+- AI assistance was used for some early project structure and issue-solving support during development.
+- Core wallet behavior, derivation logic, and security-sensitive flows were reviewed and validated manually.
 
 ## Out-of-Time Checklist
 
